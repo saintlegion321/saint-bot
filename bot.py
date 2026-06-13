@@ -1316,6 +1316,10 @@ async def main():
     await cache_all_photos_on_start()
     print("Бот запущен!")
     await dp.start_polling(bot)
-    if __name__ == "__main__":
+    
+    
+    
+    
+if __name__ == "__main__":
     print("TEST BEFORE MAIN", flush=True)
     asyncio.run(main())
