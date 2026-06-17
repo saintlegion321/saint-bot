@@ -19,7 +19,7 @@ from aiogram.exceptions import TelegramBadRequest, TelegramForbiddenError  # <--
 
 # ================== НАСТРОЙКИ ==================
 
-TOKEN = "8857193787:AAGJbcXn1fNh3KeA_MnfvGqWlYRG6gqucZw"
+TOKEN = "8857193787:AAGrquRFb1Nu342BFt19DfS65uROmaSEH0E"
 
 DB_PATH = "bot.db"
 
